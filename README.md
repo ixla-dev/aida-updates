@@ -1,3 +1,3 @@
-# AIDA Releases 
+# AIDA Updates
 
-This repo contains only pre-built AIDA releases for IXLA machines
+This repo contains only AIDA update packages for IXLA machines
